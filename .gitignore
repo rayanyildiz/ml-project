@@ -1,0 +1,4 @@
+archive/
+*.pkl
+__pycache__/
+.ipnyb_checkpoints/
